@@ -1,4 +1,4 @@
-# Supply Chain Analytics: Vessel Performance Analytics
+# Supply Chain Analytics: Vessel Performance Analysis
 ### Supply Chain Analytics Case Study | SQL • Power BI • DAX • SQLite | 824K+ Voyage Records
 
 ---
