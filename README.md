@@ -1,4 +1,4 @@
-# Supply Chain Operations Performance Analytics
+# Supply Chain Analytics: Vessel Performance Analytics
 ### Case Study: Vessel Operations between Helsinki (FIHEL) and Tallinn (EETLL)
 
 ---
